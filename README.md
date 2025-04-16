@@ -142,8 +142,6 @@ When using Docker:
 python3 tools/p3tosRGB.py schemes/YOUR_SCHEME
 ```
 
-This will overwrite your scheme with a converted version.
-
 ### How to add new template
 
 Do you want to convert existing iTerm themes to themes for your favorite terminal/editor/etc?
